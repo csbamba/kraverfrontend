@@ -1,0 +1,13 @@
+li{
+    list-style: none;
+}
+.bg {
+    --tw-bg-opacity: 1;
+    background-color: rgb(181, 212, 209);
+}
+.logo{
+    font-family: 'Playball', cursive;
+    
+/* font-family: 'Playball', cursive; */
+/* font-family: 'Poppins', sans-serif; */
+}
